@@ -1,0 +1,40 @@
+.altura-a-b{
+    padding: 100px 0px;
+}
+
+.logotipo{
+    width: 100px;
+    padding-right: 10px;
+}
+
+.iconos-redes-header{
+    width: 20px;
+    margin: 10px 5px;
+}
+
+.logotipo2{
+    width: 100px;
+    margin-bottom: 20px;
+}
+
+footer{
+
+    background-color: dodgerblue;
+    padding: 25px 0;
+    text-align: center;
+
+}
+
+.logocontacto{
+    width: 2000px;
+    padding-right: 2px;
+
+}
+
+.eventos{
+    width: 500px;
+    padding-right: 40px;
+
+}
+
+
